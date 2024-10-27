@@ -1,6 +1,6 @@
-with open("README.md", "a") as f: f.write("![Pydantic](Pydantic_logo.png)\n")
+# Pydantic use examples in Sustainability reports
 
-# Pydantic Sustainability Models for SwissRe
+![Pydantic](images/Pydantic_logo.png)
 
 This project leverages **Pydantic** to create structured, validated models for handling sustainability data, focusing on metrics relevant to SwissRe. It ensures data reliability by validating fields for investments, emissions reduction, ESG scores, and climate risks, supporting high-quality data integration for further analysis and reporting.
 
